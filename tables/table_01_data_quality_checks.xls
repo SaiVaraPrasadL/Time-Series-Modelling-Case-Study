@@ -1,0 +1,10 @@
+Check,Result
+Number of rows,500
+Number of columns,2
+Start date,2025-01-19 00:00:00
+End date,2026-06-02 00:00:00
+Missing dates in date column,0
+Missing price values,0
+Duplicate rows,0
+Duplicate dates,0
+Missing daily dates/gaps,0
